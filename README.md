@@ -12,5 +12,5 @@ ALX (Holberton School) Software Engineering <img align='right' src="https://pbs.
 [![badgen](https://badgen.net/badge/icon/git?icon=git&label)](https://badgen.ne)
 [![badgen](https://badgen.net/badge/icon/git?icon=git&label)](https://badgen.ne)
 </br>
-[![forthebadge]([https://forthebadge.com?primaryBGColor=%23d0021b&primaryTextColor=%23FFFFFF&secondaryBGColor=%23389AD5&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=Shell&secondaryLabel=Linux&tertiaryLabel=&panels=2#/generator](https://forthebadge.com/images/badges/built-with-swag.svg))](https://forthebadge.com)                  
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)                  
 ~                                                                                                                                                
